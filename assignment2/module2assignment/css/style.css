@@ -7,6 +7,7 @@
 .container {
   margin-left: 1px;
   margin-right: 1px;
+  font-size: 16px;
 }
 
 h1 {
@@ -20,9 +21,11 @@ h3 {
     width: 30%;
     float: right;
     position: absolute;
-    top: -19px;
+    top: -21px;
     right: -1px;
     margin-bottom: 10%;
+    font-size: 20px;
+    color: #ffffff;
 }
 
 #htmlHeading {
